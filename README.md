@@ -6,9 +6,6 @@
 ![image](https://user-images.githubusercontent.com/63775931/94992195-3b80f200-05c3-11eb-8ea5-ff0aab963914.png)  
   실행할 test.txt
 
-![image](https://user-images.githubusercontent.com/63775931/94992197-3de34c00-05c3-11eb-83a8-5a1ab1c36b74.png)  
-  실행 결과
-
 -------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/63775931/94992223-72ef9e80-05c3-11eb-9d46-1d1daf1d31fb.png)  
